@@ -14,10 +14,10 @@ Board Stack up
 - Alternate Signal
 
 Photo of top copper layer:
-
+![Photo of top copper layer](https://github.com/brendan-mcm/ESP_FlightController/blob/main/Front_FC.png)
 
 Photo of bottom copper layer:
-
+![Photo of bottom copper layer](https://github.com/brendan-mcm/ESP_FlightController/blob/main/Back_FC.png)
 
 Photo of 3D model:
-
+![Photo of 3D model](https://github.com/brendan-mcm/ESP_FlightController/blob/main/3D_FC.png)
