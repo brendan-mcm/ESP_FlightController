@@ -14,10 +14,10 @@ Board Stack up
 - Alternate Signal
 
 Photo of top copper layer:
-![Photo of top copper layer](./Front_FC.png)
+
 
 Photo of bottom copper layer:
-![Photo of bottom copper layer](./Back_FC.png)
+
 
 Photo of 3D model:
-![Photo of 3D model](./3D_FC.png)
+
